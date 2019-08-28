@@ -1,0 +1,3715 @@
+fileFormatVersion: 2
+guid: 2e58d02bd72d74b3aa9ffb824c894c12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3830844186430552898
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_0
+  - first:
+      213: 6038163732224499401
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_1
+  - first:
+      213: 8440813914580877343
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_2
+  - first:
+      213: 6536510862203762936
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_3
+  - first:
+      213: 4797575711968771923
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_4
+  - first:
+      213: -4214175407198560956
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_5
+  - first:
+      213: -6059983812266223893
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_6
+  - first:
+      213: -6027589537866361667
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_7
+  - first:
+      213: 75610918611561725
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_8
+  - first:
+      213: -3174576972621773408
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_9
+  - first:
+      213: -2626531315243600045
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_10
+  - first:
+      213: 272978705384089301
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_11
+  - first:
+      213: 3427449693957823827
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_12
+  - first:
+      213: 4353597012485313408
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_13
+  - first:
+      213: -8094838237007739582
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_14
+  - first:
+      213: -2016749520530293467
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_15
+  - first:
+      213: -5939228456140765307
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_16
+  - first:
+      213: -4838424548973619212
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_17
+  - first:
+      213: 7486931019359099234
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_18
+  - first:
+      213: -2731652251815220435
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_19
+  - first:
+      213: -2111335567903430983
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_20
+  - first:
+      213: 5109872105490926199
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_21
+  - first:
+      213: -8330755958067812936
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_22
+  - first:
+      213: 8468979961314721439
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_23
+  - first:
+      213: 3806487756779321043
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_24
+  - first:
+      213: -1698732716168216492
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_25
+  - first:
+      213: -5876770061583580975
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_26
+  - first:
+      213: 8113500859760369767
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_27
+  - first:
+      213: -86471947449921822
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_28
+  - first:
+      213: -3996455211000441458
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_29
+  - first:
+      213: 1951882928837319394
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_30
+  - first:
+      213: 7134361632795137832
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_31
+  - first:
+      213: 4232230305686645965
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_32
+  - first:
+      213: 6375886875327880707
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_33
+  - first:
+      213: -1986750255395655525
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_34
+  - first:
+      213: 3638486136464084423
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_35
+  - first:
+      213: -4232677976802686632
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_36
+  - first:
+      213: -2814291388650527100
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_37
+  - first:
+      213: -2541998183891640302
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_38
+  - first:
+      213: -4353836523776577135
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_39
+  - first:
+      213: 1933917320931114660
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_40
+  - first:
+      213: -6184603825429375872
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_41
+  - first:
+      213: -4520962706102933269
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_42
+  - first:
+      213: -326630955548358383
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_43
+  - first:
+      213: 8229490687117134498
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_44
+  - first:
+      213: -4591312238687778046
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_45
+  - first:
+      213: 5130238094671556332
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_46
+  - first:
+      213: -8106663930397135878
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_47
+  - first:
+      213: 6804204412637365569
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_48
+  - first:
+      213: -5518477716761504024
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_49
+  - first:
+      213: -4216126683196845308
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_50
+  - first:
+      213: -3844383488634403895
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_51
+  - first:
+      213: -7661687325114080249
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_52
+  - first:
+      213: 828312374778604812
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_53
+  - first:
+      213: -5279168277279853439
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_54
+  - first:
+      213: -4538141017175414509
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_55
+  - first:
+      213: 3024588915470385687
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_56
+  - first:
+      213: -5547630916629929487
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_57
+  - first:
+      213: -9152372613016352286
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_58
+  - first:
+      213: -7374149065468445559
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_59
+  - first:
+      213: 6641373905280603986
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_60
+  - first:
+      213: 5353817847491355960
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_61
+  - first:
+      213: 6708007892552344792
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_62
+  - first:
+      213: 7395820153434855921
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_63
+  - first:
+      213: 4149330224901615157
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_64
+  - first:
+      213: -4415742222487976160
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_65
+  - first:
+      213: -3106130283418235159
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_66
+  - first:
+      213: -2022163463914175194
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_67
+  - first:
+      213: 7532149222130178689
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_68
+  - first:
+      213: -5982520696710263977
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_69
+  - first:
+      213: -6939503327063995045
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_70
+  - first:
+      213: 9124732425407778242
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_71
+  - first:
+      213: 6474171513814636908
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_72
+  - first:
+      213: 7176511106750497408
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_73
+  - first:
+      213: 5378184629874352922
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_74
+  - first:
+      213: -2803151976928294365
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_75
+  - first:
+      213: 4592001533852081289
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_76
+  - first:
+      213: 1236417909833623569
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_77
+  - first:
+      213: 6640631606619120735
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_78
+  - first:
+      213: 5472230703897033153
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_79
+  - first:
+      213: -1409959342689788101
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_80
+  - first:
+      213: 8935807825379428144
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_81
+  - first:
+      213: -3354568014326064253
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_82
+  - first:
+      213: -4874210609556589095
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_83
+  - first:
+      213: 6287624196744458926
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_84
+  - first:
+      213: -3856427736882685405
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_85
+  - first:
+      213: 8623020538350455324
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_86
+  - first:
+      213: 8555788681710753912
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_87
+  - first:
+      213: -6308340430655840185
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_88
+  - first:
+      213: 1213614514037814556
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_89
+  - first:
+      213: -3792265039514592641
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_90
+  - first:
+      213: 2939029946783363327
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_91
+  - first:
+      213: -3237871793563426980
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_92
+  - first:
+      213: 7961183642713806311
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_93
+  - first:
+      213: -9011819353469632419
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_94
+  - first:
+      213: -2683520065619363463
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_95
+  - first:
+      213: 7277073513419106429
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_96
+  - first:
+      213: 1558561603777798846
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_97
+  - first:
+      213: 2497769097795419953
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_98
+  - first:
+      213: -3301039693638965140
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_99
+  - first:
+      213: 2288170491258019540
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_100
+  - first:
+      213: -583207066962728322
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_101
+  - first:
+      213: 3871343520836000470
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_102
+  - first:
+      213: 2770876072993994919
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_103
+  - first:
+      213: 624355118002335256
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_104
+  - first:
+      213: -709195867864925779
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_105
+  - first:
+      213: 4555601719824553549
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_106
+  - first:
+      213: -1551821732855996248
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_107
+  - first:
+      213: -4716603231585522006
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_108
+  - first:
+      213: -8773330347791983957
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_109
+  - first:
+      213: 1328300003480847629
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_110
+  - first:
+      213: 2373184386984127799
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_111
+  - first:
+      213: 6591419510579280736
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_112
+  - first:
+      213: -9186934929580440971
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_113
+  - first:
+      213: 6049731432212427873
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_114
+  - first:
+      213: -5847753825288970288
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_115
+  - first:
+      213: -833551959757226742
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_116
+  - first:
+      213: 1149851760381449844
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_117
+  - first:
+      213: 8109988457761208457
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_118
+  - first:
+      213: -2678469636604346293
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_119
+  - first:
+      213: -3100471916366332468
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_120
+  - first:
+      213: -2849701722582886162
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_121
+  - first:
+      213: -7904347860841126670
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_122
+  - first:
+      213: -1677716236605603436
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_123
+  - first:
+      213: -1199929679360467318
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_124
+  - first:
+      213: -8012962189228519899
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_125
+  - first:
+      213: -5218838694577895145
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_126
+  - first:
+      213: -8189890914399855776
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_127
+  - first:
+      213: 2328043060223065362
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_128
+  - first:
+      213: -7738917630046747250
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_129
+  - first:
+      213: -5255735369303148304
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_130
+  - first:
+      213: 261297224501499471
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_131
+  - first:
+      213: 6446528596730944848
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_132
+  - first:
+      213: -1750881386563488917
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_133
+  - first:
+      213: 9107278962208276798
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_134
+  - first:
+      213: -1957160005130813342
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_135
+  - first:
+      213: -5878016316268784787
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_136
+  - first:
+      213: 1842763017515944879
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_137
+  - first:
+      213: 5731215819828654271
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_138
+  - first:
+      213: 9049824495803678143
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_139
+  - first:
+      213: -7580899284728031986
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_140
+  - first:
+      213: -8355914848561905941
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_141
+  - first:
+      213: -318060201622150560
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_142
+  - first:
+      213: -8222238916758983373
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_143
+  - first:
+      213: 5873794647456366665
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_144
+  - first:
+      213: -3607439919498361788
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_145
+  - first:
+      213: -1771244779748275455
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_146
+  - first:
+      213: 6391937241072137791
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_147
+  - first:
+      213: -6180481010953264976
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_148
+  - first:
+      213: 6571581587859066104
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_149
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cd3c4e7072847fbbdc8630d8dff34b
+      internalID: 3830844186430552898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3122a166350f24e3dbf7d5b594353bbc
+      internalID: 6038163732224499401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4406c11fba9104ea0842e8f653e04e4d
+      internalID: 8440813914580877343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabc43c52214549b2a86a3d7b5aabbcd
+      internalID: 6536510862203762936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f0faba84b7a4120a61273a8b7ba416
+      internalID: 4797575711968771923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1697bf5ff256d48ed8b61fd89e787f41
+      internalID: -4214175407198560956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccb98ebab16943f791ed7254179f604
+      internalID: -6059983812266223893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451b6062cb1be422f8899c3d301eac6f
+      internalID: -6027589537866361667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ebc9ee6342b43e3bb53ada87c6906d
+      internalID: 75610918611561725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a3dfe27885443f3a069e728dd5c6e5
+      internalID: -3174576972621773408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61569c619a2b1417abd13203dc6c50c0
+      internalID: -2626531315243600045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a9eadb9612c45a688fc7da64a90c12
+      internalID: 272978705384089301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef8a2d898d6840b489c6659f1ef2916
+      internalID: 3427449693957823827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e86dd2516ea4e8a9348df59b22fb26
+      internalID: 4353597012485313408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e6c154886184119a558e722ca489b4
+      internalID: -8094838237007739582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e52c3401756476f9a3937f817000cc
+      internalID: -2016749520530293467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef450ae28438c42af99f83bc2be7540c
+      internalID: -5939228456140765307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42412331e54a949fc903185bc6730ba3
+      internalID: -4838424548973619212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67303a7b122354f7fa54725b1cc49708
+      internalID: 7486931019359099234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa17e9bac0fca4f43a81a8c305a11652
+      internalID: -2731652251815220435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e6ed6ba51bf429490d3357ea7b63b0
+      internalID: -2111335567903430983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981a60129827f4feca0e2491dfafb61d
+      internalID: 5109872105490926199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188533e5583d94aa99883e7455341a61
+      internalID: -8330755958067812936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f513ffc3fe146baaf7f417a84e0824
+      internalID: 8468979961314721439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57adec1cdf5e46ecb2309a09543e6d2
+      internalID: 3806487756779321043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870c8f32a0c7240058c8d6bc4bbe08ce
+      internalID: -1698732716168216492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05893c9369db0495eb7ba4d7e8668351
+      internalID: -5876770061583580975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052936c1013b34448be0005f5e7dff0e
+      internalID: 8113500859760369767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bab514ebe5e46acbf582580bb451ce
+      internalID: -86471947449921822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f0a14d66b7844808c12c7e8ffffa66
+      internalID: -3996455211000441458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4bddd986b0a4dfeba1381ecfbe0866
+      internalID: 1951882928837319394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e253d0d94abda40e6850e43fce812c57
+      internalID: 7134361632795137832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1ea7c702cbe4aeab351e44c3982bec
+      internalID: 4232230305686645965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0df8aaede114822b46382bb8e2e768
+      internalID: 6375886875327880707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e31f1f7cc44b0e862d6a4972ac067
+      internalID: -1986750255395655525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a448741630c4831893e985800759c1
+      internalID: 3638486136464084423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a43b3fdb827c4eb899c20f8efc4ce1f
+      internalID: -4232677976802686632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d820fe8ae2943dc8b387d08b966512
+      internalID: -2814291388650527100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f586346e4024048a641b84501bb9e1
+      internalID: -2541998183891640302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275d76f5e0b8746ecbd16816806869eb
+      internalID: -4353836523776577135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e25eff0807a644279d3703c5be6cb0c
+      internalID: 1933917320931114660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fd0e7d706f848c28c38d0bda53a522
+      internalID: -6184603825429375872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85d8553f022a4e9f8a60ca44065e5c7
+      internalID: -4520962706102933269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8f3d27e960e4940bdf74ae82f66720
+      internalID: -326630955548358383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17889670b89340118961372be36690f
+      internalID: 8229490687117134498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061e25a0c37ab4c23b7aa677cfaa2e58
+      internalID: -4591312238687778046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72b2fd2234624beb93665e1e5cbc725
+      internalID: 5130238094671556332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ba7cffd9ebe47b8bbb6716e768aa6e
+      internalID: -8106663930397135878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afeb9f2f2a734526afe066dca9d457e
+      internalID: 6804204412637365569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635725ca6efcb456b8ebfc266834737e
+      internalID: -5518477716761504024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73658f2aed1c84cdebdedc107118c871
+      internalID: -4216126683196845308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd0cec0f125643ae9c64640fc972ba8
+      internalID: -3844383488634403895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922d142a366bd4f688e9941ccb147598
+      internalID: -7661687325114080249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f12f929cf50d447286474469d54b99b
+      internalID: 828312374778604812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a43a68da3194b2aa8bbf0a83661baf
+      internalID: -5279168277279853439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cd98f66fee144da95959c1f8027650
+      internalID: -4538141017175414509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b546d26e1e074c62a8a2dc389778d85
+      internalID: 3024588915470385687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5113f33a5a846cc85f005c601d1b4e
+      internalID: -5547630916629929487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b08d27d84a39411b857fc55d5014c4d
+      internalID: -9152372613016352286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40011929aeedd43cda2f7f59481205ed
+      internalID: -7374149065468445559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f000c66067a4d20b956eb2d05eeae6
+      internalID: 6641373905280603986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab9dc1740b2c4c83aad3d8ea9ca4506
+      internalID: 5353817847491355960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5031bdd22a51f4969834720f243d23b4
+      internalID: 6708007892552344792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cccb002d529e4fb992d83054f290200
+      internalID: 7395820153434855921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5769fc99c3d49abaf30f600e3b06da
+      internalID: 4149330224901615157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d66c96b45c834299a8134d63ae1caa1
+      internalID: -4415742222487976160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d613b0ce7536c49fbb57522e05764167
+      internalID: -3106130283418235159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974017ce3dc514112affd52c41fdae7e
+      internalID: -2022163463914175194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738563f878e3a4bfa9bc1081f5c6f47e
+      internalID: 7532149222130178689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da71acde27b4fbf95aa78159b438d9
+      internalID: -5982520696710263977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e2623323b364545b8971c157bafa34
+      internalID: -6939503327063995045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00679cf82a59f410793dab45f90395cd
+      internalID: 9124732425407778242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6108a9595bf8e4188aa7fa5f0ed05871
+      internalID: 6474171513814636908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9f7abcaaf18419cafce0512fed7fa4
+      internalID: 7176511106750497408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b514644e772484c85972d3d1582f7683
+      internalID: 5378184629874352922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4addb52220285404ab1401819005d100
+      internalID: -2803151976928294365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedf459be5a4a4727b24ecc2c943f93b
+      internalID: 4592001533852081289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380091868ec074c8b9d302a32d5efe56
+      internalID: 1236417909833623569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857cc6cab80864aacba3b1dc1fd3cdcd
+      internalID: 6640631606619120735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5bf1586c35c44b389ad3736894dbc9
+      internalID: 5472230703897033153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe5a3b03c00f4e6e8a6d4ecaefd9bd6
+      internalID: -1409959342689788101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4486f9f1b138b48c8bc5438cd2285ac4
+      internalID: 8935807825379428144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e93dd5d09217404db1b442ffc0108bc
+      internalID: -3354568014326064253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5d7732ec24a42f9a440ee68b648937
+      internalID: -4874210609556589095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969d5ed1ab30549159d53d00e08a3030
+      internalID: 6287624196744458926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930fca5cc7d4b478a95f3cdf9a3e1e80
+      internalID: -3856427736882685405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5919130db8df4a02baa7315cd5b75a1
+      internalID: 8623020538350455324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713f0b75c7e2a4261a7b78ad2919039d
+      internalID: 8555788681710753912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b096ae375144e3e80ca6582a95dfd8
+      internalID: -6308340430655840185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec254f544d08471a82c46b6f36cf00f
+      internalID: 1213614514037814556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cc7d8475c0e484b86ed007bb801a0d
+      internalID: -3792265039514592641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bcfdc281a1d4ad5b5211a580d60ea5
+      internalID: 2939029946783363327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279e98b159a094609b9b7508a894dd8f
+      internalID: -3237871793563426980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fd0742a84f8427aacd41646747d273
+      internalID: 7961183642713806311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8561d7e051aa947a0b90fc5b414d889a
+      internalID: -9011819353469632419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d475985746610477abc2cf3b7ff84049
+      internalID: -2683520065619363463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f804c0f0200b44f239adf259e1376dce
+      internalID: 7277073513419106429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658e89e3de3ed47dfaaabbd8afad235d
+      internalID: 1558561603777798846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174012e7c37374847aa8323b53c8d8f8
+      internalID: 2497769097795419953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b19ba43b8c7644ee8e17fb691b565be
+      internalID: -3301039693638965140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c0793e1bca04442ace90d28540764d
+      internalID: 2288170491258019540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563ae77c43792426e8faa4412c4e124e
+      internalID: -583207066962728322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0690f8e89f71e4a82a496080e361519a
+      internalID: 3871343520836000470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f17b966475db4be9a2f8c5b8ab84889
+      internalID: 2770876072993994919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f1c96a1e95649fbaf7dce45303edd7
+      internalID: 624355118002335256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f31d5f7290e1468b8aaeafdeaf09639
+      internalID: -709195867864925779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a663378b26644917b450048c68b2861
+      internalID: 4555601719824553549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe46ae7141fee47f38ffa732801ca176
+      internalID: -1551821732855996248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c44d6f657b043f9a6241ae23dd3802
+      internalID: -4716603231585522006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4b51d7e1db741f8a9854afcffd53af
+      internalID: -8773330347791983957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207713ccedf704d30a4d6303d03942c3
+      internalID: 1328300003480847629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d81c7bdea65e47cba8b4182ca4b3942
+      internalID: 2373184386984127799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_112
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787c2de1df966428db2c48fe2d6354b3
+      internalID: 6591419510579280736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e5ab96a02254dbd81d5913851e86e0
+      internalID: -9186934929580440971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef233cd4614047e19e2702d4830a947
+      internalID: 6049731432212427873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea47f763c2b54a30a1b92f8ae18d145
+      internalID: -5847753825288970288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_116
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c36d1f9adf51434198f5b3ac4303d1f
+      internalID: -833551959757226742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08821380f9924d67866f3c3e1c02e90
+      internalID: 1149851760381449844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_118
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccb7b9397a7e40d48e99a9bee510604
+      internalID: 8109988457761208457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80be71febf6684268870e31a8bf7f545
+      internalID: -2678469636604346293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a45292ee599a4cbc9210cae4fefc0e0
+      internalID: -3100471916366332468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7712d6b4b41624f698f79f9c6370eb55
+      internalID: -2849701722582886162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee6885cc7f1498394febfe380f987c
+      internalID: -7904347860841126670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56892605514643f0b2b0139c4a10c6b
+      internalID: -1677716236605603436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46da2e65723ee42a3854d49c6b810557
+      internalID: -1199929679360467318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a669768eff0490197e7676084d3c08
+      internalID: -8012962189228519899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459b30a21fb13431fbc7995cc326b877
+      internalID: -5218838694577895145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec417ca03da4117889e2f7431f41f7
+      internalID: -8189890914399855776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c5a65792483466c912b8635e32d4c9
+      internalID: 2328043060223065362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aefd66116594063958d66fca6190d5
+      internalID: -7738917630046747250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399763ab8a38d4086bcd20cf3e05f438
+      internalID: -5255735369303148304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_131
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2f4dcc2d70945c6801fba659ddf88d
+      internalID: 261297224501499471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2ef453ee4ca4e8391dd10a7f634a62
+      internalID: 6446528596730944848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_133
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4396bd2df29dc487d82617785010d330
+      internalID: -1750881386563488917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae98d32d53194c70998aa2a6dc253cd
+      internalID: 9107278962208276798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019096d7932ac4f1ea70a6b7a5585114
+      internalID: -1957160005130813342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe6bbf5151ba456aba8c2909b1356a7
+      internalID: -5878016316268784787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740464dfc3bb540e9833b891e9f08211
+      internalID: 1842763017515944879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac21b08570ffa450cad94f7cf81f3e38
+      internalID: 5731215819828654271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b967ecfcc2443d1a919982d95e4f72
+      internalID: 9049824495803678143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059c0412eb60a471d95b73dcb47ca233
+      internalID: -7580899284728031986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fdd3ab077164bdeb0d5f629f4b9c39
+      internalID: -8355914848561905941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de693cf3d8a2402582a4802ee7f73a8
+      internalID: -318060201622150560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b5743284eab4cd196eda645771dd47
+      internalID: -8222238916758983373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059691cf92a054975a3060409bda9be7
+      internalID: 5873794647456366665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2146d0a9057874cc5b707aa9cec78cda
+      internalID: -3607439919498361788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_146
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ef8d4ede9ad47f1b4a77d327666671
+      internalID: -1771244779748275455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b0f62cef86a44fd93d3013507c3c08
+      internalID: 6391937241072137791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_148
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eadf883e50774a60bdfd2cb7a60151b
+      internalID: -6180481010953264976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01 (1)_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07830643d5214f93bf87895fece4966
+      internalID: 6571581587859066104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
