@@ -3801,6 +3801,24 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1157960272 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 50845559107336340, guid: b3ab2516092763c42b16c5a9605b99b0,
+    type: 3}
+  m_PrefabInstance: {fileID: 2062426152}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1157960277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1157960272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3db447fd91e35431fba3bfb55effb690, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1514359569
 GameObject:
   m_ObjectHideFlags: 0
@@ -4033,6 +4051,8 @@ GameObject:
   - component: {fileID: 1704614065}
   - component: {fileID: 1704614067}
   - component: {fileID: 1704614066}
+  - component: {fileID: 1704614068}
+  - component: {fileID: 1704614069}
   m_Layer: 0
   m_Name: Blue
   m_TagString: Untagged
@@ -4226,6 +4246,30 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!114 &1704614068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1704614064}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e68d035bd7f1ca44a7b6dee545f5c8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1704614069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1704614064}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3db447fd91e35431fba3bfb55effb690, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1739093004
 GameObject:
   m_ObjectHideFlags: 0
@@ -4681,6 +4725,11 @@ PrefabInstance:
     - target: {fileID: 50845559107336297, guid: b3ab2516092763c42b16c5a9605b99b0,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 50845559107336341, guid: b3ab2516092763c42b16c5a9605b99b0,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
