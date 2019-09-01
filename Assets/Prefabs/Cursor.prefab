@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 50845559107336296}
   - component: {fileID: 50845559107336343}
   - component: {fileID: 50845559107336342}
-  - component: {fileID: 50845559107336341}
+  - component: {fileID: 2402951102639078785}
   m_Layer: 0
-  m_Name: Player
+  m_Name: Cursor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -72,8 +72,7 @@ SpriteRenderer:
   m_SortingLayerID: 1042091485
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: -3912069346634801902, guid: ff68cc884651c4621be47b403e0bbe1a,
-    type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7f56a22b22aee4f6b9e3d20fa4028d5d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -121,7 +120,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &50845559107336341
+--- !u!114 &2402951102639078785
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -130,6 +129,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 50845559107336340}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e68d035bd7f1ca44a7b6dee545f5c8b, type: 3}
+  m_Script: {fileID: 11500000, guid: 3db447fd91e35431fba3bfb55effb690, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
