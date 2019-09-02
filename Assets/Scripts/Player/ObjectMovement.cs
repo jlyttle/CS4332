@@ -10,7 +10,12 @@ public class ObjectMovement : MonoBehaviour
 	private int speed = 5, buttonCooldown = 0; //button cooldown for not moving too many directions at once
 	private DIRECTION dir = DIRECTION.DOWN; //facing direction									
 	private Vector3 pos; //keep track of object position
+	private Rigidbody2D body;
 
+    void Start()
+	{
+        body = GetComponent<Rigidbody2D>();
+	}
 	public void Update()
 	{
 		buttonCooldown--;
@@ -30,7 +35,7 @@ public class ObjectMovement : MonoBehaviour
 				move();
 			}
             //movement speed 
-			transform.position = Vector3.MoveTowards(transform.position, pos, Time.deltaTime * speed);
+			body.transform.position = Vector3.MoveTowards(transform.position, pos, Time.deltaTime * speed);
 		}
 	}
 
