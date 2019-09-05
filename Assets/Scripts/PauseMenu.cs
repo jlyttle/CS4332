@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
@@ -30,20 +31,20 @@ public class PauseMenu : MonoBehaviour
         is_paused = false;
     }
 
-    public void Save()
-    {
-        
-    }
-
-    public void Exit()
-    {
-        Application.Quit();
-    }
-
     void Pause()
     {
         pause_menu.SetActive(true);
         Time.timeScale = 0f;
         is_paused = true;
+    }
+
+    public void Surrender()
+    {
+        Application.LoadLevel("Map1");
+    }
+
+    public void Exit()
+    {
+        Application.Quit();
     }
 }
