@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 //set directions
@@ -10,6 +11,9 @@ public class ObjectMovement : MonoBehaviour
 	private int speed = 5, buttonCooldown = 0; //button cooldown for not moving too many directions at once
 	private DIRECTION dir = DIRECTION.DOWN; //facing direction									
 	private Vector3 pos; //keep track of object position
+
+	private bool isWalkable = false;
+	private int range = 5;
 
 	public void Update()
 	{
