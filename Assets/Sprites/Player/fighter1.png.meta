@@ -1,7 +1,115 @@
 fileFormatVersion: 2
 guid: 21ef337beae5649e785d49f1d99327f9
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 779212053835688408
+    second: fighter1_0
+  - first:
+      213: -2475261128871997030
+    second: fighter1_1
+  - first:
+      213: -5333382037236867993
+    second: fighter1_2
+  - first:
+      213: 4538330369102927188
+    second: fighter1_3
+  - first:
+      213: 3408714050484687318
+    second: fighter1_4
+  - first:
+      213: -2851277692639093404
+    second: fighter1_5
+  - first:
+      213: -9014444588415601238
+    second: fighter1_6
+  - first:
+      213: 1892315112646592899
+    second: fighter1_7
+  - first:
+      213: 3978262180459676058
+    second: fighter1_8
+  - first:
+      213: -32365387636165962
+    second: fighter1_9
+  - first:
+      213: -757224674763848370
+    second: fighter1_10
+  - first:
+      213: -4763282433357828657
+    second: fighter1_11
+  - first:
+      213: 6900664548781882884
+    second: fighter1_12
+  - first:
+      213: -9012915296652488030
+    second: fighter1_13
+  - first:
+      213: -2719351544413843877
+    second: fighter1_14
+  - first:
+      213: -5330847811019613537
+    second: fighter1_15
+  - first:
+      213: 3268245544498093433
+    second: fighter1_16
+  - first:
+      213: -6988437156668561857
+    second: fighter1_17
+  - first:
+      213: 3728652819664884654
+    second: fighter1_18
+  - first:
+      213: -2133177256314179166
+    second: fighter1_19
+  - first:
+      213: -7293759068000766214
+    second: fighter1_20
+  - first:
+      213: -1241699694896374343
+    second: fighter1_21
+  - first:
+      213: 2266495859511180512
+    second: fighter1_22
+  - first:
+      213: 4609441267993633725
+    second: fighter1_23
+  - first:
+      213: 8545826418126212275
+    second: fighter1_24
+  - first:
+      213: -5932979554776732048
+    second: fighter1_25
+  - first:
+      213: 1174913480893824851
+    second: fighter1_26
+  - first:
+      213: -7683360405840623166
+    second: fighter1_27
+  - first:
+      213: -9214926271908559328
+    second: fighter1_28
+  - first:
+      213: 2591175951951880455
+    second: fighter1_29
+  - first:
+      213: -5813483639957582653
+    second: fighter1_30
+  - first:
+      213: 6071785003864877025
+    second: fighter1_31
+  - first:
+      213: -5471118935483604482
+    second: fighter1_32
+  - first:
+      213: -2897263195764710286
+    second: fighter1_33
+  - first:
+      213: 2462862199251881419
+    second: fighter1_34
+  - first:
+      213: -6152475241812534470
+    second: fighter1_35
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -96,7 +204,763 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: fighter1_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 101
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec887a72ac9547cca076e87fd069cc1
+      internalID: 779212053835688408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f503c911c703e41108e2704c3bf708c5
+      internalID: -2475261128871997030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 101
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9516ffd4529c24885aa032c7409a480f
+      internalID: -5333382037236867993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 101
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23b51c81aac64a6eb53ebf0cf586bc8
+      internalID: 4538330369102927188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 101
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fe6e3f131e44ca78d05feee1819e50
+      internalID: 3408714050484687318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 101
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a49bbdfdcc34fcd900fb1f5d36d5fb
+      internalID: -2851277692639093404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 68
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a720b4a0576b749029462401d0bfa67b
+      internalID: -9014444588415601238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 68
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d1784de138d48b7897a8cafec857cf
+      internalID: 1892315112646592899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 68
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b344bf6c4a7764f2195ce39adebb64ea
+      internalID: 3978262180459676058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a532b1f2d3143aa9d7012b37c191ba
+      internalID: -32365387636165962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 68
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7102ca019f54d5892de522b29c83ed
+      internalID: -757224674763848370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 68
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0026782154d024db3ac3c8accbc3d79f
+      internalID: -4763282433357828657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 68
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be12b3ffa1eb40ed8d5c2495ecc38f8
+      internalID: 6900664548781882884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 68
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f62808cbeb394f05963f4a3e9254e37
+      internalID: -9012915296652488030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 68
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba3329b8d60d46498aef0345ff46d07
+      internalID: -2719351544413843877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 68
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e151118e06ff14157a5031d12a650d8f
+      internalID: -5330847811019613537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 35
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec07d0cd5e594a54b7c016bb75017bb
+      internalID: 3268245544498093433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 35
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104a40a3fd44746189f345ca4fa8c97d
+      internalID: -6988437156668561857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 35
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd88857a0c47c4317b14ba41c6432c0b
+      internalID: 3728652819664884654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3d828e9bfe24a818238e0f2f200d30
+      internalID: -2133177256314179166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 35
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a77dcbdfa38949408d6ac1a8882c6c5
+      internalID: -7293759068000766214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 35
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b566ea1cb6a5b4dce873aadc5a5cdf59
+      internalID: -1241699694896374343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_22
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 35
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13decdbb3ca2e4458921be388dfba92e
+      internalID: 2266495859511180512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 35
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a098cfff689e74d98b3b7061d7c8af1e
+      internalID: 4609441267993633725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 35
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4f95664bcc34c29a700c2522af02b4
+      internalID: 8545826418126212275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 35
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b3085bef0ed45e29319ca1d5928a97
+      internalID: -5932979554776732048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecf7ff2761034b0b9cf5a942c936ac4
+      internalID: 1174913480893824851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93e467a844b7466f984f7515c20cc63
+      internalID: -7683360405840623166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119dca844fad64c969c715a64cc0954a
+      internalID: -9214926271908559328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_29
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8fc71fb8158436fa8ef633e5fd595d
+      internalID: 2591175951951880455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53186c1412c3f4c16b724eeb8261d931
+      internalID: -5813483639957582653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_31
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceddb184f15364cd3a015b470017faf9
+      internalID: 6071785003864877025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_32
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc4c3f77c72491d9c291f9daa57ad2
+      internalID: -5471118935483604482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60e2dc325311463f9a703e11b770811
+      internalID: -2897263195764710286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_34
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b1331999466482ab2efbb7ce2fc4dc
+      internalID: 2462862199251881419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter1_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a8729abe8da4418a77c71fa52b3869
+      internalID: -6152475241812534470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

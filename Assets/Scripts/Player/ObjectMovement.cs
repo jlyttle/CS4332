@@ -8,7 +8,7 @@ public enum DIRECTION { UP, DOWN, LEFT, RIGHT }
 public class ObjectMovement : MonoBehaviour
 {
 	private bool canMove = true, moving = false;
-	private int speed = 5, buttonCooldown = 0; //button cooldown for not moving too many directions at once
+	private int speed = 10, buttonCooldown = 0; //button cooldown for not moving too many directions at once
 	private DIRECTION dir = DIRECTION.DOWN; //facing direction									
 	private Vector3 pos; //keep track of object position
 
